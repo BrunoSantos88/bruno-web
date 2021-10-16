@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bruno-web/static/css/main.a617e044.chunk.css",
+    "main.js": "/bruno-web/static/js/main.892f0ee0.chunk.js",
+    "main.js.map": "/bruno-web/static/js/main.892f0ee0.chunk.js.map",
+    "runtime-main.js": "/bruno-web/static/js/runtime-main.e18542ea.js",
+    "runtime-main.js.map": "/bruno-web/static/js/runtime-main.e18542ea.js.map",
+    "static/js/2.125f8f44.chunk.js": "/bruno-web/static/js/2.125f8f44.chunk.js",
+    "static/js/2.125f8f44.chunk.js.map": "/bruno-web/static/js/2.125f8f44.chunk.js.map",
+    "static/js/3.d6c130c5.chunk.js": "/bruno-web/static/js/3.d6c130c5.chunk.js",
+    "static/js/3.d6c130c5.chunk.js.map": "/bruno-web/static/js/3.d6c130c5.chunk.js.map",
+    "index.html": "/bruno-web/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bruno-web/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.125f8f44.chunk.js.LICENSE.txt": "/bruno-web/static/js/2.125f8f44.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bruno-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e18542ea.js",
+    "static/js/2.125f8f44.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.892f0ee0.chunk.js"
+  ]
+}
